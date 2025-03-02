@@ -1,14 +1,14 @@
-# 👋 ¡Hola, soy Bryan Valenzuela!
+# ¡Hola, soy Bryan Valenzuela! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7DF1E&size=22&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n;Frontend+%7C+Backend+%7C+JavaScript+%7C+TypeScript+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=cyan&size=22&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n;Frontend+%7C+Backend+%7C+JavaScript+%7C+TypeScript+%7C+React" alt="Typing SVG" />
 </p>
 
-Soy un **desarrollador en formación** con interés en **frontend y backend**. Tengo experiencia previa en **HTML, CSS, JavaScript y React.js**, además de conocimientos en **Git**. Actualmente, estoy profundizando en **JavaScript y TypeScript** para mejorar mis habilidades y convertirme en un desarrollador Full Stack sólido.
+Soy un **desarrollador en formación** con interés en **frontend y backend**. Tengo experiencia previa en **HTML, CSS, JavaScript y React.js**, además de conocimientos en **Git**. Actualmente, estoy profundizando en **JavaScript y TypeScript** para mejorar mis habilidades y convertirme en un desarrollador Full Stack.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologías y Herramientas 🛠️
 
 ### ✅ Tecnologías que manejo:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
